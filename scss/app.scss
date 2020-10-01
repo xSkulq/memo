@@ -1,0 +1,397 @@
+// variable
+$font-size-default: 16px;
+$font-size-s: 12px;
+$font-size-m: 14px;
+$font-size-l: 18px;
+$font-size-2l: 20px;
+$font-size-3l: 24px;
+$font-size-4l: 36px;
+
+$font-color-black: #121212;
+$font-color-white: #fff;
+
+$background-black: #121212;
+$background-black-thin: #303030;
+$background-white: #fff;
+$background-yellow: #f1ef28;
+
+
+//base
+body{
+  font-size: $font-size-default;
+  color: $font-color-black;
+  font-family: Quicksand, 游ゴシック体, "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+// header
+.header{
+  border-bottom: 1px solid $background-black;
+  width: 100%;
+}
+.nav{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+// main
+.main{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+// content
+.content{
+  width: 100%;
+  margin: 0 auto;
+}
+
+// login & singup
+.title{
+  color: $font-color-black;
+  font-size: $font-size-4l;
+  text-align: center;
+  margin-top: 95px;
+  margin-bottom: 55px;
+  width: 100%;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.box{
+  border: 2px solid $background-black;
+  border-radius: 3px;
+  box-sizing: border-box;
+  width: 480px;
+  padding: 52px 57px 52px 58px;
+  &-label{
+    font-size: $font-size-l;
+    margin: 0;
+    width: 100%;
+    &__text{
+      font-size: $font-size-l;
+      &-small{
+        font-size: $font-size-s;
+      }
+    }
+  }
+  &-input{
+    box-sizing: border-box;
+    font-size: $font-size-default;
+    padding: 7px;
+    padding-left: 10px;
+    height: 40px;
+    width: 100%;
+  }
+}
+
+// addList
+.addList{
+  &-content{
+    width: 40%;
+  }
+  &-font{
+    &__small{
+      font-size: $font-size-default;
+    }
+  }
+  &-label{
+    font-size: $font-size-3l;
+    margin: 0;
+    width: 100%;
+  }
+  &-input{
+    box-sizing: border-box;
+    font-size: $font-size-default;
+    padding: 7px;
+    padding-left: 10px;
+    height: 40px;
+    width: 100%;
+  }
+  &-textarea{
+    box-sizing: border-box;
+    font-size: $font-size-default;
+    padding: 7px;
+    padding-left: 10px;
+    height: 60px;
+    width: 100%;
+  }
+}
+
+// list
+.list{
+  box-sizing: border-box;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0 auto;
+  width: 50%;
+  &-title{
+    color: $font-color-black;
+    font-size: $font-size-4l;
+    margin-top: 95px;
+    margin-bottom: 55px;
+    width: 100%;
+  }
+  &-input{
+    box-sizing: border-box;
+    font-size: $font-size-default;
+    padding: 7px;
+    padding-top: 10px;
+    margin-bottom: 47px;
+    height: 40px;
+    width: 77%;
+  }
+  &-middle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  &-text{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    &__size{
+      font-size: $font-size-l;
+    }
+  }
+  &-box{
+    border: 1px solid $background-black;
+    border-top: none;
+    box-sizing: border-box;
+    padding: 13px 10px 20px 9px;
+    width: 100%;
+    &:first-child{
+      border-top: 1px solid $background-black;
+    }
+    &__text{
+      border-bottom: 1px solid $background-black;
+    }
+    &__end{
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+    }
+  }
+}
+
+
+//button
+.button{
+  background-color: $background-black-thin;
+  color: $font-color-white;
+  display: block;
+  font-size: $font-size-l;
+  text-align: center;
+  text-decoration: none;
+  &:hover{
+    background-color: #474747;
+  }
+  &-right{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+  &-block{
+    border: 1px solid $background-black;
+    border-radius: 50px;
+    color: $font-color-black;
+    display: block;
+    font-size: $font-size-2l;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 25px;
+    margin-right: 15px;
+    &:hover{
+      background-color: rgba($color: #121212, $alpha: 0.05);
+    }
+  }
+  &-yellow{
+    background-color: $background-yellow;
+    border: 1px solid $background-yellow;
+    &:hover{
+      background-color: rgba($color: #f1ef28, $alpha: 0.7);
+    }
+  }
+
+  &-long{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+  }
+  &-middle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 130px;
+  }
+  &-small{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin: 0 auto;
+    width: 38%;
+  }
+  &-bigSmall{
+    border: 1px solid $background-black;
+    color: $font-color-black;
+    font-size: $font-size-s;
+    text-decoration: none;
+    padding: 5px 17px;
+    padding-bottom: 6px;
+    display: block;
+    box-sizing: border-box;
+    &:hover{
+      background-color: rgba($color: #121212, $alpha: 0.05);
+    }
+  }
+  &-destory{
+    border: 1px solid $background-black;
+    color: $font-color-black;
+    font-size: $font-size-s;
+    text-decoration: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 60px;
+  }
+  &-seach{
+    background-color: $background-black-thin;
+    color: $font-color-white;
+    display: block;
+    font-size: $font-size-l;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 47px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+  }
+}
+
+.auto{
+  &-login{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    &__checkbox{
+      border: 1px solid $background-black;
+      height: 12px;
+      width: 12px;
+    }
+  }
+}
+.seach{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+//pagination
+.margin{
+  &-auto{
+    margin: 0 auto;
+  }
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  &-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    width: 18%;
+  }
+  &-number{
+    color: $font-color-black;
+    font-size: $font-size-l;
+    text-decoration: none;
+    &:hover{
+      background-color: $background-black-thin;
+      color: $font-color-white;
+      padding: 5px;
+    }
+  }
+  &-icon{
+    color: $font-color-black;
+    font-size: $font-size-l;
+    text-decoration: none;
+  }
+}
+
+// err
+.err{
+  font-size: $font-size-s;
+  color: red;
+  float: right;
+  padding-top: 5px;
+}
+.box-input__err{
+  background-color: #ffd6d2;
+}
+
+// utility
+.u-mt5{
+  margin-top: 5px;
+}
+.u-mt10{
+  margin-top: 10px;
+}
+.u-mt150{
+  margin-top: 150px;
+}
+.u-mb5{
+  margin-bottom: 5px;
+}
+.u-mb10{
+  margin-bottom: 10px;
+}
+.u-mb15{
+  margin-bottom: 15px;
+}
+.u-mb20{
+  margin-bottom: 15px;
+}
+.u-mb35{
+  margin-bottom: 35px;
+}
+.u-mb40{
+  margin-bottom: 40px;
+}
+.u-mb65{
+  margin-bottom: 65px;
+}
+.u-mb70{
+  margin-bottom: 70px;
+}
+.u-mb160{
+  margin-bottom: 160px;
+}
+.u-ml5{
+  margin-left: 5px;
+}
+.u-ml10{
+  margin-left: 10px;
+}
+.u-ml20{
+  margin-left: 20px;
+}
+.u-ml25{
+  margin-left: 25px;
+}
+.u-flex{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}

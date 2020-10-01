@@ -1,0 +1,314 @@
+@charset "UTF-8";
+body {
+  font-size: 16px;
+  color: #121212;
+  font-family: Quicksand, 游ゴシック体, "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; }
+
+.header {
+  border-bottom: 1px solid #121212;
+  width: 100%; }
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1200px; }
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.content {
+  width: 100%;
+  margin: 0 auto; }
+
+.title {
+  color: #121212;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 95px;
+  margin-bottom: 55px;
+  width: 100%; }
+
+.form {
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+
+.box {
+  border: 2px solid #121212;
+  border-radius: 3px;
+  box-sizing: border-box;
+  width: 480px;
+  padding: 52px 57px 52px 58px; }
+  .box-label {
+    font-size: 18px;
+    margin: 0;
+    width: 100%; }
+    .box-label__text {
+      font-size: 18px; }
+      .box-label__text-small {
+        font-size: 12px; }
+  .box-input {
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 7px;
+    padding-left: 10px;
+    height: 40px;
+    width: 100%; }
+
+.addList-content {
+  width: 40%; }
+
+.addList-font__small {
+  font-size: 16px; }
+
+.addList-label {
+  font-size: 24px;
+  margin: 0;
+  width: 100%; }
+
+.addList-input {
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 7px;
+  padding-left: 10px;
+  height: 40px;
+  width: 100%; }
+
+.addList-textarea {
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 7px;
+  padding-left: 10px;
+  height: 60px;
+  width: 100%; }
+
+.list {
+  box-sizing: border-box;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0 auto;
+  width: 50%; }
+  .list-title {
+    color: #121212;
+    font-size: 36px;
+    margin-top: 95px;
+    margin-bottom: 55px;
+    width: 100%; }
+  .list-input {
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 7px;
+    padding-top: 10px;
+    margin-bottom: 47px;
+    height: 40px;
+    width: 77%; }
+  .list-middle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; }
+  .list-text {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; }
+    .list-text__size {
+      font-size: 18px; }
+  .list-box {
+    border: 1px solid #121212;
+    border-top: none;
+    box-sizing: border-box;
+    padding: 13px 10px 20px 9px;
+    width: 100%; }
+    .list-box:first-child {
+      border-top: 1px solid #121212; }
+    .list-box__text {
+      border-bottom: 1px solid #121212; }
+    .list-box__end {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center; }
+
+.button {
+  background-color: #303030;
+  color: #fff;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none; }
+  .button:hover {
+    background-color: #474747; }
+  .button-right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 15px; }
+  .button-block {
+    border: 1px solid #121212;
+    border-radius: 50px;
+    color: #121212;
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 25px;
+    margin-right: 15px; }
+    .button-block:hover {
+      background-color: rgba(18, 18, 18, 0.05); }
+  .button-yellow {
+    background-color: #f1ef28;
+    border: 1px solid #f1ef28; }
+    .button-yellow:hover {
+      background-color: rgba(241, 239, 40, 0.7); }
+  .button-long {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%; }
+  .button-middle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 130px; }
+  .button-small {
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin: 0 auto;
+    width: 38%; }
+  .button-bigSmall {
+    border: 1px solid #121212;
+    color: #121212;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 5px 17px;
+    padding-bottom: 6px;
+    display: block;
+    box-sizing: border-box; }
+    .button-bigSmall:hover {
+      background-color: rgba(18, 18, 18, 0.05); }
+  .button-destory {
+    border: 1px solid #121212;
+    color: #121212;
+    font-size: 12px;
+    text-decoration: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 60px; }
+  .button-seach {
+    background-color: #303030;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 47px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px; }
+
+.auto-login {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; }
+  .auto-login__checkbox {
+    border: 1px solid #121212;
+    height: 12px;
+    width: 12px; }
+
+.seach {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center; }
+
+.margin-auto {
+  margin: 0 auto; }
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px; }
+  .pagination-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    width: 18%; }
+  .pagination-number {
+    color: #121212;
+    font-size: 18px;
+    text-decoration: none; }
+    .pagination-number:hover {
+      background-color: #303030;
+      color: #fff;
+      padding: 5px; }
+  .pagination-icon {
+    color: #121212;
+    font-size: 18px;
+    text-decoration: none; }
+
+.err {
+  font-size: 12px;
+  color: red;
+  float: right;
+  padding-top: 5px; }
+
+.box-input__err {
+  background-color: #ffd6d2; }
+
+.u-mt5 {
+  margin-top: 5px; }
+
+.u-mt10 {
+  margin-top: 10px; }
+
+.u-mt150 {
+  margin-top: 150px; }
+
+.u-mb5 {
+  margin-bottom: 5px; }
+
+.u-mb10 {
+  margin-bottom: 10px; }
+
+.u-mb15 {
+  margin-bottom: 15px; }
+
+.u-mb20 {
+  margin-bottom: 15px; }
+
+.u-mb35 {
+  margin-bottom: 35px; }
+
+.u-mb40 {
+  margin-bottom: 40px; }
+
+.u-mb65 {
+  margin-bottom: 65px; }
+
+.u-mb70 {
+  margin-bottom: 70px; }
+
+.u-mb160 {
+  margin-bottom: 160px; }
+
+.u-ml5 {
+  margin-left: 5px; }
+
+.u-ml10 {
+  margin-left: 10px; }
+
+.u-ml20 {
+  margin-left: 20px; }
+
+.u-ml25 {
+  margin-left: 25px; }
+
+.u-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; }
