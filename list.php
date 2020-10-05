@@ -38,6 +38,7 @@ if($_POST){
       $stmt = queryPost($dbh, $sql, $data);
       if($stmt){
         debug('メモを削除しました');
+        header('Location:list.php');
       }else{
         return false;
       }

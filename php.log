@@ -17547,3 +17547,785 @@ Stack trace:
 [05-Oct-2020 15:40:59 Asia/Tokyo] デバッグ：入力されていません
 [05-Oct-2020 15:40:59 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
 [05-Oct-2020 15:40:59 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：セッションID：7v2pn7jnrvuc9l441ofoeq7v9a
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880546
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:06 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：セッションID：sqvf4iqqq48piokv1i2r9sc0c3
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880553
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:13 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:13 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:13 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:13 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:13 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:13 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：セッションID：9vga0osgi9q525v2qlv6g1alc0
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880559
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:19 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:19 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:19 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:19 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:19 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:19 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：セッションID：ppfo4p6k6k17gloq22odhefebg
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880561
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:21 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:21 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:21 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:21 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:21 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:21 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：セッションID：otci6983q82k6dncra4bteccv9
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880573
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:33 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:33 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:33 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:33 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:33 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:33 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：セッションID：luv9b7poc357qrondi5v1fruff
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880575
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 15:49:35 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:35 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:35 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:35 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:35 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:35 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：セッションID：d053nveckcvp1se2onpicbtfff
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880576
+[05-Oct-2020 15:49:36 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：セッションID：qpn60du09ngb13nqvrg51jdhst
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880586
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 15:49:46 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 15:49:46 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 15:49:46 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 15:49:46 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 15:49:46 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：emailのバリデーションクリア
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：passのvalidをクリア
+[05-Oct-2020 15:49:46 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：セッションID：6beecicebgj6huabvnssdhcudd
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601880587
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：入力されていません
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 15:49:47 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：セッションID：men0b588n9avrguocv8qsm3t6j
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881425
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：入力されていません
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 16:03:45 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：セッションID：mgsi4u16ribacd0665hkvq3aee
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881427
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:03:47 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：セッションID：bpqidkvjh5sh4prg0mgq0bk7pu
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881432
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:03:52 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 16:03:52 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 16:03:52 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[05-Oct-2020 16:03:52 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：セッションID：k1qo4lb7gkm4rcupqlmqbj7gf8
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881437
+[05-Oct-2020 16:03:57 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：セッションID：g1ahajb038obieqvmvja5oeuvm
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881449
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 16:04:09 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 16:04:09 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 16:04:09 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：emailのバリデーションクリア
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：passのvalidをクリア
+[05-Oct-2020 16:04:09 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：セッションID：497qr80iobhup0mjq37ufsnpc3
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881455
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：入力されていません
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 16:04:15 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：セッションID：n24jmonhpslbm6j8e3inghsts8
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881459
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 16:04:19 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 16:04:19 Asia/Tokyo] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 16:04:19 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：emailのバリデーションクリア
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：passのvalidをクリア
+[05-Oct-2020 16:04:19 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：セッションID：h5u958tbfk80q0ook8i0pt7l99
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881497
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:04:57 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：セッションID：l9t57pcu37p1choivmqjo8qc2l
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881503
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:05:03 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：パスワード一致しました
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：ログインにチェックしてません
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：一覧に遷移します
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：セッションID：q34ip73aovg3roqhle6aootk42
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881504
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:04 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：セッションID：tqj2rs9uf9kshsrhi4mrkch6s6
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881505
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:05 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：セッションID：p257j43n1hsec3sklar0qjoeqt
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881505
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:05 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：セッションID：b4me03hcld3ccpl32cfsfl5irq
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881507
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:07 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：セッションID：hvj27m148tigmmdrl139kph38d
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881507
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:07 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：addList画面
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：セッションID：mljrfacrja7rdtossdec9av37v
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881504
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881508
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885104
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：ログイン済みです
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：ログインできます
+[05-Oct-2020 16:05:08 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：セッションID：o6tb0rsa6ni5vfnm4asckr5700
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881509
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:09 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：セッションID：97rc6udrh4apf12kh2dbbad1ju
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881510
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:10 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：セッションID：e3vsg4diq35kglhr7p2l7enjgd
+[05-Oct-2020 16:05:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881510
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッションID：pcfd3700qg2l8ntbu6g4qsmice
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881511
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:11 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッションID：tne9qclt0kll6i1sbt5dqu4mkv
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881511
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッションID：papkmhstf19ng32db6nbh1irq8
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881511
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:11 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッションID：nn12tsv8fk1c86l08vl1r1f1ln
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881511
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッションID：0626pd7u388ngja6hc7gitg55s
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881511
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:11 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/traning/memo/list.php on line 35
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:11 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：セッションID：emt7l90t5b3k86p63r4db5c30m
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881512
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:12 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：logout画面
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：セッションID：8bv1qe0nvoras6pfs4pv0b1r23
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881508
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881514
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885108
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：ログアウトします
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：ログインページに遷移します
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：セッションID：vi99fjcqfdhdcbcms6al7ab0i5
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881514
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:05:14 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：セッションID：mi4egej19u51bqj48vfi3m7323
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881523
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：パスワードが一致しませんでした
+[05-Oct-2020 16:05:23 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：セッションID：d5to370h73bumg21htlpkf7l89
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881528
+[05-Oct-2020 16:05:28 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：セッションID：fnmj3db2jv36confueosl5n67c
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881538
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:38 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/traning/memo/function.php on line 20
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：Array
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：emailのバリデーションクリア
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：passのvalidをクリア
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：pass_reのvalidをクリア
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881538
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：セッションID：vfhuda53n7pm5o4fap3jgclm01
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881538
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881538
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885138
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:38 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：addList画面
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：セッションID：q1cifigstjf7hqfrdqlja9f313
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881538
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881539
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885138
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：ログイン済みです
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：ログインできます
+[05-Oct-2020 16:05:39 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：addList画面
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：セッションID：56563bs6bbl806hj6evevk8f9m
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881539
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881542
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885139
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：ログイン済みです
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：ログインできます
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881542
+    [login_limit] => 3600
+    [user_id] => 7
+    [comment] => test
+    [memo] => 25
+)
+
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：セッションID：rontods8624n7hma0ju35clfho
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881542
+    [login_limit] => 3600
+    [user_id] => 7
+    [comment] => test
+    [memo] => 25
+)
+
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881542
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885142
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:42 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：セッションID：e50g77hqg54jvju8iqd83m8t1a
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881542
+    [login_limit] => 3600
+    [user_id] => 7
+    [comment] => test
+    [memo] => 25
+)
+
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881544
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885142
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：POST送信されました
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：メモを削除しました
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：list画面
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：セッションID：rm4uvj749dtrgpfia5etkstnli
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881542
+    [login_limit] => 3600
+    [user_id] => 7
+    [comment] => test
+    [memo] => 25
+)
+
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881544
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885142
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：クエリ成功。
+[05-Oct-2020 16:05:44 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：logout画面
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：セッションID：un1fmuc0t6uc7qclkt17ihpqrt
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1601881542
+    [login_limit] => 3600
+    [user_id] => 7
+    [comment] => test
+    [memo] => 25
+)
+
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881573
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1601885142
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：ログアウトします
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：ログインページに遷移します
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：セッションID：2i0m8gl8jl0pqb60dmq01ggmku
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601881573
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 16:06:13 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
