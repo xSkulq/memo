@@ -8,7 +8,6 @@ require('auth.php');
 $m_id = (!empty($_GET['m_id'])) ? $_GET['m_id'] : '';
 
 $viewData = getMemoOne($m_id);
-//var_dump($viewData);
 debug('取得したDBデータ：'.print_r($viewData,true));
 
 if(!empty($_POST)){

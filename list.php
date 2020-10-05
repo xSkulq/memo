@@ -22,12 +22,10 @@ $currentMinNum = (($currentPageNum-1)*$listSpan);
 $seach = (!empty($_GET['seach'])) ? $_GET['seach'] : '';
 
 $dbMemoData = getMemoList($currentMinNum, $seach);
-//var_dump($dbMemoData['data']);
 
 
 if($_POST){
   $destory = $_POST['destory'];
-  var_dump($destory);
   debug('POST送信されました');
   if($destory){
     try{
