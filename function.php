@@ -169,9 +169,15 @@ function validThiught($str, $key){
 //DB接続関数
 function dbConnect(){
   //DBへの接続準備
-  $dsn = 'mysql:dbname=memo;host=localhost;charset=utf8';
-  $user = 'root';
-  $password = 'root';
+  $db = parse_url($_SERVER['CLEARDB_DATABASE_URL']);
+  $db['dbname'] = ltrim($db['path'], '/');
+  $dsn = "mysql:dbname={$db['dbname']};host={$db['host']};charset=utf8";
+  // ローカル時に使っていた
+  //$dsn = 'mysql:dbname=memo;host=localhost;charset=utf8';
+  //$user = 'root';
+  //$password = 'root';
+  $user = $db['user'];
+  $password = $db['pass'];
   $options = array(
     // SQL実行失敗時にはエラーコードのみ設定
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,//_SILENT
