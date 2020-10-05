@@ -17467,3 +17467,45 @@ Stack trace:
 [02-Oct-2020 06:24:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601587440
 [02-Oct-2020 06:24:00 Asia/Tokyo] デバッグ：未ログインです
 [02-Oct-2020 06:24:00 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：login画面
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：セッションID：dbpk9cqg31dqqs8d863otfse8i
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601863483
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：未ログインです
+[05-Oct-2020 11:04:43 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：セッションID：memt0pugnoigg9mhduv307l8p9
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601863485
+[05-Oct-2020 11:04:45 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：singup画面
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：=============================
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：セッションID：n9lqctgrf6p5igoki4vfeknk2n
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1601863496
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：未入力のバリデーションクリア
+[05-Oct-2020 11:04:56 Asia/Tokyo] PHP Notice:  Undefined index: CLEARDB_DATABASE_URL in /Applications/MAMP/htdocs/traning/memo/function.php on line 172
+[05-Oct-2020 11:04:56 Asia/Tokyo] PHP Notice:  Undefined index: host in /Applications/MAMP/htdocs/traning/memo/function.php on line 174
+[05-Oct-2020 11:04:56 Asia/Tokyo] PHP Notice:  Undefined index: user in /Applications/MAMP/htdocs/traning/memo/function.php on line 179
+[05-Oct-2020 11:04:56 Asia/Tokyo] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/traning/memo/function.php on line 180
+[05-Oct-2020 11:04:56 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] No such file or directory
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：emailのバリデーションクリア
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：passのvalidをクリア
+[05-Oct-2020 11:04:56 Asia/Tokyo] デバッグ：画面処理終了^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
