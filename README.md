@@ -7,3 +7,7 @@
 
 HTML/CSS(Scss)/PHP
 
+公開先URL
+
+https://protected-thicket-28283.herokuapp.com/index.php
+
